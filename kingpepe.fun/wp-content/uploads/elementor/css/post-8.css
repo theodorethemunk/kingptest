@@ -1,0 +1,188 @@
+.elementor-8 .elementor-element.elementor-element-63e7576 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 35px;
+    --padding-bottom: 0px;
+    --padding-left: 35px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3baa596 {
+    width: var( --container-widget-width, 6.19%);
+    max-width: 6.19%;
+    --container-widget-width: 6.19%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-3baa596.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-4b1dcff .elementor-heading-title {
+    color: var( --e-global-color-8895f2e);
+    font-family: "Fugaz One", Sans-serif;
+    font-size: 29px;
+    font-weight: 900;
+}
+
+.elementor-8 .elementor-element.elementor-element-3e82af8 .elementor-heading-title {
+    color: var( --e-global-color-4d68f16);
+    font-family: "Fugaz One", Sans-serif;
+    font-size: 29px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3e82af8>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-07c6509 {
+    --spacer-size: 50px;
+    width: var( --container-widget-width, 5.326%);
+    max-width: 5.326%;
+    --container-widget-width: 5.326%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-07c6509.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-74e58dc .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+    fill: #000000;
+    color: #000000;
+    background-color: #02010100;
+}
+
+.elementor-8 .elementor-element.elementor-element-74e58dc .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-74e58dc .elementor-button:focus {
+    color: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-74e58dc .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-74e58dc .elementor-button:focus svg {
+    fill: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-74e58dc>.elementor-widget-container {
+    margin: 0px 10px 0px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-cb9805a .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+    fill: #000000;
+    color: #000000;
+    background-color: #02010100;
+}
+
+.elementor-8 .elementor-element.elementor-element-cb9805a .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-cb9805a .elementor-button:focus {
+    color: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-cb9805a .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-cb9805a .elementor-button:focus svg {
+    fill: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-cb9805a>.elementor-widget-container {
+    margin: 0px 10px 0px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-e7c3c49 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+    fill: #000000;
+    color: #000000;
+    background-color: #02010100;
+}
+
+.elementor-8 .elementor-element.elementor-element-e7c3c49 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-e7c3c49 .elementor-button:focus {
+    color: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-e7c3c49 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-e7c3c49 .elementor-button:focus svg {
+    fill: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-e7c3c49>.elementor-widget-container {
+    margin: 0px 10px 0px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3ee62f3 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+    fill: #000000;
+    color: #000000;
+    background-color: #02010100;
+}
+
+.elementor-8 .elementor-element.elementor-element-3ee62f3 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-3ee62f3 .elementor-button:focus {
+    color: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-3ee62f3 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-3ee62f3 .elementor-button:focus svg {
+    fill: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-3ee62f3>.elementor-widget-container {
+    margin: 0px 10px 0px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-b6c3b16 {
+    --spacer-size: 50px;
+    width: var( --container-widget-width, 5.326%);
+    max-width: 5.326%;
+    --container-widget-width: 5.326%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-b6c3b16.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d39736 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+    fill: #000000;
+    color: #000000;
+    background-color: #02010100;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d39736 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-3d39736 .elementor-button:focus {
+    color: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-3d39736 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-3d39736 .elementor-button:focus svg {
+    fill: var( --e-global-color-4d68f16);
+}
+
+.elementor-8 .elementor-element.elementor-element-3d39736>.elementor-widget-container {
+    margin: 0px 10px 0px 10px;
+}
